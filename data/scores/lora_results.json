@@ -1,0 +1,46 @@
+{
+  "mse_matrix": {
+    "baseline": {
+      "europeana": 0.5711792767461803,
+      "tzigara": 0.772325197296947,
+      "wikimedia": 0.7635671800496627
+    },
+    "europeana": {
+      "europeana": 0.5758756765474876,
+      "tzigara": 0.7739211802742393,
+      "wikimedia": 0.7701059664998736
+    },
+    "tzigara": {
+      "europeana": 0.5744569248830279,
+      "tzigara": 0.770113720442373,
+      "wikimedia": 0.7656142334548794
+    },
+    "wikimedia": {
+      "europeana": 0.5702328137639496,
+      "tzigara": 0.7763355102501351,
+      "wikimedia": 0.7745557476063164
+    }
+  },
+  "dmse_matrix": {
+    "baseline": {
+      "europeana": 0.0,
+      "tzigara": 0.0,
+      "wikimedia": 0.0
+    },
+    "europeana": {
+      "europeana": -0.004696399801307316,
+      "tzigara": -0.001595982977292243,
+      "wikimedia": -0.006538786450210887
+    },
+    "tzigara": {
+      "europeana": -0.0032776481368476107,
+      "tzigara": 0.0022114768545740127,
+      "wikimedia": -0.0020470534052167144
+    },
+    "wikimedia": {
+      "europeana": 0.0009464629822306669,
+      "tzigara": -0.0040103129531881,
+      "wikimedia": -0.010988567556653672
+    }
+  }
+}

@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this replication package, please cite it as below."
+type: software
+title: "Agentic Archive Replication Package"
+version: "v17c"
+date-released: 2026-08-21
+repository: "https://github.com/fishsleep/agentic-archive-replication"
+license: "MIT"
+keywords:
+  - "archival silence"
+  - "masked autoencoders"
+  - "LoRA"
+  - "Romanian visual heritage"
+  - "computational heritage"
+  - "digital humanities"
+  - "epistemic void"
+  - "Brecciation Index"
+  - "reconstruction error"
+  - "cultural heritage AI"

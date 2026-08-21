@@ -1,0 +1,40 @@
+Creative Commons Attribution 4.0 International Public License
+
+By exercising the Licensed Rights (defined below), You accept and agree
+to be bound by the terms and conditions of this Creative Commons Attribution
+4.0 International Public License.
+
+## License Grant
+
+Subject to the terms of this Public License, the Licensor grants You a
+worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license
+to reproduce and share the Licensed Material, in whole or in part.
+
+## Attribution
+
+If You Share the Licensed Material (or any Adapted Material), You must:
+- Retain identification of the creator(s) of the Licensed Material
+- Provide a link to the original source
+- Indicate if You modified the Licensed Material
+
+## Note on Images
+
+**NO IMAGES ARE REDISTRIBUTED WITH THIS REPOSITORY.**
+
+The repository contains only:
+- Metadata CSVs (statistical analysis of descriptive records)
+- Computed analysis results (MSE values, correlation statistics, LoRA results)
+- Pre-trained LoRA adapters (MIT license)
+- Python scripts for computation
+
+Users must obtain their own visual images from cultural heritage institutions
+and verify licensing requirements before use. The analysis results and LoRA
+adapters may only be meaningful when applied to the specific image datasets
+described in the associated paper.
+
+## Disclaimer
+
+The Licensed Material is provided "as is" without warranties of any kind.
+Creative Commons is not a law firm and does not provide legal services.
+
+For the full CC-BY 4.0 legal text, see: https://creativecommons.org/licenses/by/4.0/legalcode

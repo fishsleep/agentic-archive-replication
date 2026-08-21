@@ -1,0 +1,53 @@
+{
+  "config": {
+    "r": 64,
+    "alpha": 128,
+    "epochs": 50,
+    "augmentation": true,
+    "lr_scheduler": "CosineAnnealing"
+  },
+  "mse_matrix": {
+    "baseline": {
+      "europeana": 0.5731965403796898,
+      "tzigara": 0.772587671195057,
+      "wikimedia": 0.7661605319198297
+    },
+    "europeana": {
+      "europeana": 0.5653795420916544,
+      "tzigara": 0.7694579319920397,
+      "wikimedia": 0.7731055848452509
+    },
+    "tzigara": {
+      "europeana": 0.5737697428299321,
+      "tzigara": 0.7689033127103413,
+      "wikimedia": 0.7696361116000584
+    },
+    "wikimedia": {
+      "europeana": 0.5712250282780992,
+      "tzigara": 0.7730024009419242,
+      "wikimedia": 0.7725775035060182
+    }
+  },
+  "dmse_matrix": {
+    "baseline": {
+      "europeana": 0.0,
+      "tzigara": 0.0,
+      "wikimedia": 0.0
+    },
+    "europeana": {
+      "europeana": 0.007816998288035393,
+      "tzigara": 0.00312973920301729,
+      "wikimedia": -0.006945052925421247
+    },
+    "tzigara": {
+      "europeana": -0.0005732024502422828,
+      "tzigara": 0.0036843584847157107,
+      "wikimedia": -0.003475579680228713
+    },
+    "wikimedia": {
+      "europeana": 0.0019715121015906334,
+      "tzigara": -0.0004147297468671818,
+      "wikimedia": -0.00641697158618848
+    }
+  }
+}

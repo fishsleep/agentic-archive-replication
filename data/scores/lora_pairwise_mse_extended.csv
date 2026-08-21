@@ -1,0 +1,13 @@
+model,archive,mse,dmse
+baseline,europeana,0.573197,0.0
+baseline,tzigara,0.772588,0.0
+baseline,wikimedia,0.766161,0.0
+europeana,europeana,0.56538,0.007817
+europeana,tzigara,0.769458,0.00313
+europeana,wikimedia,0.773106,-0.006945
+tzigara,europeana,0.57377,-0.000573
+tzigara,tzigara,0.768903,0.003684
+tzigara,wikimedia,0.769636,-0.003476
+wikimedia,europeana,0.571225,0.001972
+wikimedia,tzigara,0.773002,-0.000415
+wikimedia,wikimedia,0.772578,-0.006417
